@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LandonPerkinsProsser, I work at Prosser.
+- 🧠 I want to become a master ROM hacker, and video game creator. Just like Ermelber and Notch.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning HTML, CSS, and Javascript. I know Python, with the Pygame, Tkinter, and the Pillow modules.
 - 📝 I use Pycharm and Visual Studio as my IDE.
