@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LandonPerkinsProsser, I work at Prosser.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning HTML, CSS, and Javascript. I know Python, the Pygame, Tkinter, and Pillow modules.
+- 🌱 I’m currently learning HTML, CSS, and Javascript. I know Python, with the Pygame, Tkinter, and the Pillow modules.
 - 💞️ I’m not looking to collaborate right now.
 
 <!---
