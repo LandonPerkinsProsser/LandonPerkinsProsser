@@ -3,9 +3,6 @@
 - 👀 I’m interested in coding and the DS to Wii U era of Nintendo.
 - 🌱 I’m currently learning HTML, CSS, and Javascript. I know Python, with the Pygame, Tkinter, and the Pillow modules.
 - 📝 I use Pycharm and Visual Studio as my IDE.
+- 🏫 I'm currently a Junior in High-School
 - ❌ I’m not looking to collaborate right now.
-
-<!---
-LandonPerkinsProsser/LandonPerkinsProsser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📶 My website: https://landonperkinsprosser.github.io/landonsoft-website/
